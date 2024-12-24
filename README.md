@@ -63,6 +63,6 @@ I am a student of Systems and Computer Engineering at the Los Libertadores Unive
 
 ### 💻 Profile Stats
 
-[![](https://github-readme-stats.vercel.app/api?username=MarcosEspejo&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Elanza-48)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=MarcosEspejo&theme=material-palenight)](https://github.com/Elanza-48)
+[![](https://github-readme-stats.vercel.app/api?username=MarcosEspejo&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/MarcosEspejo)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=MarcosEspejo&theme=material-palenight)](https://github.com/MarcosEspejo)
 
