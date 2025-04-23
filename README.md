@@ -1,10 +1,10 @@
 <h1 align="center"><b>Hi , I'm Marcos Espejo </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<h3 font-size="20" align="center">A passionate backend developer and a student from Colombia.</h3>
+<h3 font-size="20" align="center">A passionate backend developer from Colombia.</h3>
 
 💻 &nbsp;About Me 
 
-I am a student of Systems and Computer Engineering at the Los Libertadores University Foundation. I love learning and building something new, productive, innovative, and creative.
+I'm a Systems and Computer Engineer. I'm passionate about learning and creating something new, productive, innovative, and creative.
 * **I am interested in software development, web development, Android development**
 - 🌱 I’m currently learning ...
   - Kotlin
